@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Trivia</string>
+    <string name="startGame">Start</string>
+    <string name="ScoreBord">Score Board</string>
+    <string name="resumeGame">Resume</string>
+    <string name="game_picture">Game picture</string>
+    <string name="question">Question</string>
+    <string name="answer">Answer</string>
+    <string name="hint_question">Hint</string>
+    <string name="quit">Quit</string>
+    <string name="check">Check</string>
+    <string name="Score" />
+    <string name="player" />
+    <string name="title">LeaderBoard</string>
+    <string name="Player" />
+    <string name="Points"></string>
+    <string name="user_ID" />
+    <string name="Description">This game is played by giving an answer of the given question when asked.
+        Finish all the questions to get into the wall of fame!.</string>
+</resources>
